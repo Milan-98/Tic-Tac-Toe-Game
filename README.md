@@ -10,11 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Check out the [live demo](https://your-live-demo-link.com) of this project.
 
+date 13 april 2023 day 122 of webDev
+
 ### Prerequisites
 
 * Node.js (version 10 or higher)
 * Git
-* 
 
 ### Installing
 
