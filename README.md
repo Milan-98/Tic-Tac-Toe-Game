@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Live Demo
 
-Check out the [live demo](https://your-live-demo-link.com) of this project.
+Check out the [live demo](https://tic-tac-toe-digital.netlify.app/) of this project.
 
 date 13 april 2023 day 122 of webDev
 
