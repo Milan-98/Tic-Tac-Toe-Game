@@ -21,3 +21,40 @@ git clone https://github.com/Milan-98/Tic-Tac-Toe-Game.git
 
 Navigate to the project directory and install the dependencies:
 
+```bash
+cd Tic-Tac-Toe-Game
+npm install
+```
+
+
+### Running the Game
+
+To start the game in development mode, run:
+
+```bash
+npm start
+```
+
+
+This will start the development server and open the game in your default web browser.
+
+### Building the Game
+
+To build the game for production, run:
+
+```bash
+npm run build
+```
+
+This will create an optimized production build of the game in the `build` directory.
+
+## How to Play
+
+1. The game is played on a 3x3 grid.
+2. You are X, your opponent is O. Players take turns putting their marks in empty squares.
+3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
