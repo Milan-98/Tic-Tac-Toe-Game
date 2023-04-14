@@ -6,10 +6,15 @@ This is a simple Tic-Tac-Toe game developed using React library.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Live Demo
+
+Check out the [live demo](https://your-live-demo-link.com) of this project.
+
 ### Prerequisites
 
 * Node.js (version 10 or higher)
 * Git
+* 
 
 ### Installing
 
