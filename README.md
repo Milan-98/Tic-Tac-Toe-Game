@@ -18,3 +18,6 @@ Clone the repository to your local machine
 ```bash
 git clone https://github.com/Milan-98/Tic-Tac-Toe-Game.git
 ```
+
+Navigate to the project directory and install the dependencies:
+
